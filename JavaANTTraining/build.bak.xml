@@ -1,0 +1,6 @@
+<?xml version = "1.0"?>
+<project name = "Java ANT Training" default = "info">
+   <target name = "info">
+      <echo>Hello World - Welcome to Apache Ant!</echo>
+   </target>
+</project>
